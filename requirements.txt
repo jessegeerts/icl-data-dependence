@@ -1,0 +1,6 @@
+torch~=2.0.1
+numpy~=1.24.3
+wandb~=0.16.6
+seaborn~=0.12.2
+matplotlib~=3.7.1
+jax~=0.4.13
